@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "cozy-type": "static",
+  "cozy-displayName": "TestApp Portfolio",
+  "version": "1.0.0",
+  "description": "Test d'application client side Cozy",
+  "icon-path": "main_icon.png",
+  "cozy-permissions": {
+    "Contacts": "This app manages your contacts"
+  }
+}
